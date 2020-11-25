@@ -42,7 +42,7 @@ The models were applied and compared for *F0.5-score*
 - Support Vector Machine
  
 ## Content
-[Jupyter Notebook 1](https://github.com/CrazyBigFoot/mimic3/blob/main/01_OverviewData.ipynb) (*OverviewData*): Data Exploration and merging of tables  
+[Jupyter Notebook 1](https://github.com/gabriel-hd73/Extubation/blob/main/01_OverviewData.ipynb) (*OverviewData*): Data Exploration and merging of tables  
 [Jupyter Notebook 2](https://github.com/CrazyBigFoot/mimic3/blob/main/02_SelectingPatientgroupFeaturesLabel.ipynb) (*SelectingPatientGroup*): Selecting patient group and defining label (extubation outcome)  
 [Jupyter Notebook 3](https://github.com/CrazyBigFoot/mimic3/blob/main/03_EDA_mimic.ipynb) (*EDA*): Data cleaning  
 [Jupyter Notebook 4](https://github.com/CrazyBigFoot/mimic3/blob/main/04_EDA_and_Preperation_Modelling.ipynb) (*DataPreparation*): Checking for correlations between the features  
